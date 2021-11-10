@@ -11,6 +11,7 @@
     <modules>
         <module>camel-blueprint</module>
         <module>camel-endpointdsl</module>
+        <module>camel-java</module>
     </modules>
 
     <properties>
